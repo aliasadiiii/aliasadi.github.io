@@ -49,6 +49,7 @@ h1, h2, h3, h4, h5, h6{color:#2f2f2f; font-family:'Newsreader', serif;}
 #introduction h2{font-size:2.9em; font-weight:bold; margin:0 0 5px 0;}
 #introduction p{font-size:1.13em ; font-weight:400; line-height:140%;}
 #introleft{float:left; width:540px; margin:0 0 25px 0;}
+#introleft2{float:left; width:540px; margin:0 0 25px 0;}
 #introquote{float:right; font-style:italic; font-size:1.15em; width:335px; ) no-repeat 0 0; padding:28px 0 0 45px; margin:20px 0 25px 0;}
 #fbicon{padding-left:50px; padding-right:50px;}
 #ghicon{padding-left:0px; padding-right:30px;}
@@ -92,7 +93,8 @@ a.readmore:hover{background-color:#2f2f2f; background-image:none; text-shadow:0 
 #mainheader nav{font-size:1.4em;}
 #mainheader nav li{margin:0 0 0 50px;}
 #introleft{width:470px;}
-#introquote{width:270px;}
+#introleft2{width:470px;}
+#introquote{width:280px;}
 #introduction h2{font-size:2.50em;}
 #aboutleft{width:450px;}
 #articlesright{width:324px;}
@@ -112,7 +114,8 @@ a.readmore:hover{background-color:#2f2f2f; background-image:none; text-shadow:0 
 #websitetitle h1{font-size:2.3em;}
 #websitetitle h2{font-size:1.2em;}
 #introleft{width:600px;}
-#introquote{display:none;}
+#introleft2{width:600px;}
+#introquote{width:280px; float:left; padding: 0;}
 #aboutleft{width:400px;}
 #articlesright{width:170px;}
 #articlesright figure{display:none;}
@@ -133,8 +136,9 @@ a.readmore:hover{background-color:#2f2f2f; background-image:none; text-shadow:0 
 #websitetitle h1{font-size:2.3em;}
 #websitetitle h2{font-size:1.2em;}
 #introleft{width:480px;}
+#introleft2{width:480px;}
 #introduction h2{font-size:2.7em;}
-#introquote{display:none;}
+#introquote{width:250px; float: left; padding: 0;}
 #aboutleft{width:310px; font-size:0.9em;}
 #articlesright{width:150px;}
 #articlesright article{font-size:0.9em;}
@@ -156,8 +160,9 @@ a.readmore:hover{background-color:#2f2f2f; background-image:none; text-shadow:0 
 #websitetitle h1{font-size:2.3em;}
 #websitetitle h2{font-size:1.2em;}
 #introleft{width:320px; font-size:0.8em;}
+#introleft2{width:320px; font-size:0.8em;}
 #introduction h2{font-size:2.3em;}
-#introquote{display:none;}
+#introquote{width:200px; float: left; padding: 0;}
 #aboutleft{width:320px; font-size:0.9em;}
 #articlesright{width:320px; float:left; border-top:1px #dbdbdb solid; padding:20px 0 0 0; margin:10px 0 0 0;}
 #articlesright article{font-size:0.9em;}
@@ -179,6 +184,7 @@ a.readmore:hover{background-color:#2f2f2f; background-image:none; text-shadow:0 
 #websitetitle h1{font-size:2.3em;}
 #websitetitle h2{font-size:1.2em;}
 #introleft{width:300px; font-size:0.8em;}
+#introleft2{width:300px; font-size:0.8em;}
 #introduction h2{font-size:2.3em;}
 #introquote{display:none;}
 #aboutleft{width:300px; font-size:0.9em;}
